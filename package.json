@@ -1,0 +1,23 @@
+{
+  "name": "munna-s-darkmeda",
+  "displayName": "Munna's Darkmeda",
+  "description": "A eye friendly dark theme by Munna",
+  "version": "0.0.5",
+  "publisher": "munnaDev",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Munna's Darkmeda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Munna's Darkmeda-color-theme.json"
+      }
+    ]
+  }
+}
